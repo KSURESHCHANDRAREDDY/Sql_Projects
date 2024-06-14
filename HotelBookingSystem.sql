@@ -1,4 +1,4 @@
---Hotel Booking System Project By: 217Y1A3354,217Y1A3340,217Y1A3344
+--Hotel Booking System
 
 --Database
 CREATE DATABASE HotelBookingSystem;
